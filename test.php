@@ -1,4 +1,4 @@
-<?php
+?php
 // request list of contacts from Web API
 $json = file_get_contents('http://jsonplaceholder.typicode.com/photos/');
 
